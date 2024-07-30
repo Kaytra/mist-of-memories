@@ -7,3 +7,8 @@
 
 *.zip
 *.meta
+
+build/
+build_old/
+library/
+.vs/
